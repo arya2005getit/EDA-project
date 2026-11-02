@@ -1,0 +1,9 @@
+department_name,total_revenue,avg_bill,total_admissions
+General Medicine,8974444.00,131977.12,68
+Pulmonology,7350125.00,141348.56,52
+Endocrinology,4327764.00,149233.24,29
+Cardiology,4022268.00,111729.67,36
+Neurology,3781852.00,135066.14,28
+Orthopedics,3636625.00,129879.46,28
+General Surgery,3559196.00,122730.90,29
+Urology,3497895.00,116596.50,30

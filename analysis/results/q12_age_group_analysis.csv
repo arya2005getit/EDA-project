@@ -1,0 +1,5 @@
+age_group,total_admissions,avg_bill,avg_stay_days
+0-18 (Child),1,125232.00,8.00
+19-40 (Young Adult),95,137760.87,5.08
+41-60 (Middle-Aged),101,118646.31,5.74
+61+ (Senior),103,135479.39,5.37

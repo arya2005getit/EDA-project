@@ -1,0 +1,11 @@
+disease_name,department_name,total_admissions
+Heart Disease,Cardiology,36
+Asthma,Pulmonology,35
+COVID-19,General Medicine,35
+Dengue,General Medicine,33
+Kidney Stone,Urology,30
+Diabetes,Endocrinology,29
+Appendicitis,General Surgery,29
+Fracture,Orthopedics,28
+Migraine,Neurology,28
+Pneumonia,Pulmonology,17

@@ -1,0 +1,11 @@
+disease_name,avg_stay_days,max_stay_days,min_stay_days
+Appendicitis,6.17,10,1
+COVID-19,5.83,10,1
+Migraine,5.79,10,1
+Pneumonia,5.76,9,1
+Kidney Stone,5.57,10,1
+Heart Disease,5.47,10,1
+Fracture,5.11,10,1
+Dengue,5.09,10,1
+Diabetes,4.90,10,1
+Asthma,4.69,10,1

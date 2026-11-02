@@ -1,0 +1,3 @@
+patient_type,total_bills,pending_bills,pending_pct
+Insured,146,75,51.37
+Self-Pay (Uninsured),154,68,44.16

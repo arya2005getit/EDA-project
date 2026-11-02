@@ -1,0 +1,17 @@
+department_name,payment_status,num_bills,total_amount
+Cardiology,Paid,22,2344930.00
+Cardiology,Pending,14,1677338.00
+Endocrinology,Paid,17,2677655.00
+Endocrinology,Pending,12,1650109.00
+General Medicine,Paid,29,3569530.00
+General Medicine,Pending,39,5404914.00
+General Surgery,Paid,12,1638128.00
+General Surgery,Pending,17,1921068.00
+Neurology,Paid,16,2124182.00
+Neurology,Pending,12,1657670.00
+Orthopedics,Paid,18,2373273.00
+Orthopedics,Pending,10,1263352.00
+Pulmonology,Paid,29,4241658.00
+Pulmonology,Pending,23,3108467.00
+Urology,Paid,14,1755578.00
+Urology,Pending,16,1742317.00

@@ -1,0 +1,3 @@
+patient_type,num_bills,total_billed,avg_bill
+Self-Pay (Uninsured),154,20621533.00,133906.06
+Insured,146,18528636.00,126908.47

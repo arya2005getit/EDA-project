@@ -1,0 +1,30 @@
+disease_name,patient_name,stay_days,admission_date,discharge_date
+Appendicitis,Ananya,10,2026-02-10,2026-02-20
+Appendicitis,Vikram,10,2026-03-30,2026-04-09
+Appendicitis,Rahul,10,2026-06-20,2026-06-30
+Appendicitis,Meera,10,2026-02-16,2026-02-26
+Asthma,Meera,10,2026-02-11,2026-02-21
+Asthma,Rohan,10,2026-06-26,2026-07-06
+COVID-19,Vikram,10,2026-05-09,2026-05-19
+COVID-19,Amit,10,2026-05-31,2026-06-10
+COVID-19,Amit,10,2026-01-25,2026-02-04
+COVID-19,Priya,10,2026-04-21,2026-05-01
+Dengue,Sneha,10,2026-03-13,2026-03-23
+Dengue,Vikram,10,2026-04-04,2026-04-14
+Dengue,Priya,10,2026-04-15,2026-04-25
+Diabetes,Meera,10,2026-06-23,2026-07-03
+Diabetes,Vikram,10,2026-01-05,2026-01-15
+Diabetes,Sneha,10,2026-04-13,2026-04-23
+Fracture,Meera,10,2026-05-27,2026-06-06
+Fracture,Karan,10,2026-02-08,2026-02-18
+Heart Disease,Karan,10,2026-01-13,2026-01-23
+Kidney Stone,Vikram,10,2026-05-17,2026-05-27
+Kidney Stone,Vikram,10,2026-06-06,2026-06-16
+Migraine,Vikram,10,2026-05-13,2026-05-23
+Migraine,Meera,10,2026-01-09,2026-01-19
+Migraine,Neha,10,2026-06-05,2026-06-15
+Migraine,Sneha,10,2026-02-17,2026-02-27
+Pneumonia,Priya,9,2026-01-18,2026-01-27
+Pneumonia,Sneha,9,2026-03-29,2026-04-07
+Pneumonia,Amit,9,2026-03-24,2026-04-02
+Pneumonia,Rohan,9,2026-03-13,2026-03-22

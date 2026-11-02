@@ -1,0 +1,301 @@
+patient_id,patient_name,age,gender,disease,department,doctor,admission_date,discharge_date,stay_days,bill_amount,insurance,insurance_provider,city,payment_status
+P001,Sneha,43,Male,Asthma,Pulmonology,Dr. Verma,2026-05-02,2026-05-05,3,28718.0,Yes,Care Health,Mumbai,Paid
+P002,Neha,74,Male,Dengue,General Medicine,Dr. Shah,2026-03-15,2026-03-18,3,199685.0,No,,Nashik,Pending
+P003,Priya,77,Male,Kidney Stone,Urology,Dr. Rao,2026-05-15,2026-05-17,2,127107.0,No,,Nashik,Paid
+P004,Vikram,41,Male,Migraine,Neurology,Dr. Shah,2026-05-13,2026-05-23,10,77828.0,Yes,Care Health,Nagpur,Paid
+P005,Meera,49,Female,Kidney Stone,Urology,Dr. Patel,2026-04-08,2026-04-16,8,22601.0,No,,Nashik,Pending
+P006,Rahul,45,Male,Migraine,Neurology,Dr. Kulkarni,2026-03-11,2026-03-18,7,168553.0,No,,Nashik,Paid
+P007,Rahul,31,Male,COVID-19,General Medicine,Dr. Khan,2026-02-26,2026-02-28,2,211360.0,Yes,ICICI Lombard,Nagpur,Paid
+P008,Sneha,29,Male,Dengue,General Medicine,Dr. Verma,2026-01-26,2026-01-31,5,156454.0,Yes,Star Health,Mumbai,Paid
+P009,Meera,27,Male,COVID-19,General Medicine,Dr. Rao,2026-03-04,2026-03-09,5,193734.0,Yes,HDFC Ergo,Kolhapur,Pending
+P010,Karan,54,Female,Asthma,Pulmonology,Dr. Patel,2026-04-28,2026-05-02,4,217276.0,Yes,Care Health,Nashik,Pending
+P011,Rohan,63,Male,Migraine,Neurology,Dr. Patel,2026-03-05,2026-03-10,5,234890.0,Yes,Care Health,Mumbai,Paid
+P012,Karan,59,Male,Kidney Stone,Urology,Dr. Mehta,2026-04-14,2026-04-15,1,139004.0,Yes,HDFC Ergo,Nashik,Pending
+P013,Vikram,61,Female,COVID-19,General Medicine,Dr. Kulkarni,2026-04-02,2026-04-08,6,173464.0,No,,Nashik,Pending
+P014,Priya,66,Male,Diabetes,Endocrinology,Dr. Shah,2026-04-08,2026-04-11,3,249717.0,No,,Nashik,Paid
+P015,Rohan,47,Male,Asthma,Pulmonology,Dr. Rao,2026-04-18,2026-04-27,9,61673.0,No,,Nagpur,Paid
+P016,Ananya,46,Male,Kidney Stone,Urology,Dr. Mehta,2026-02-26,2026-03-05,7,139317.0,No,,Nashik,Pending
+P017,Vikram,61,Female,Migraine,Neurology,Dr. Shah,2026-03-03,2026-03-05,2,231636.0,Yes,Star Health,Nashik,Paid
+P018,Karan,70,Female,Asthma,Pulmonology,Dr. Verma,2026-06-09,2026-06-14,5,154104.0,No,,Nagpur,Paid
+P019,Priya,56,Male,COVID-19,General Medicine,Dr. Shah,2026-04-22,2026-04-30,8,96924.0,No,,Nashik,Paid
+P020,Vikram,71,Male,Kidney Stone,Urology,Dr. Rao,2026-05-17,2026-05-27,10,173035.0,No,,Nagpur,Pending
+P021,Meera,26,Female,Migraine,Neurology,Dr. Singh,2026-01-09,2026-01-19,10,125783.0,No,,Nashik,Paid
+P022,Vikram,35,Male,Dengue,General Medicine,Dr. Khan,2026-03-31,2026-04-09,9,51339.0,No,,Nashik,Paid
+P023,Karan,47,Male,Diabetes,Endocrinology,Dr. Khan,2026-03-11,2026-03-16,5,227377.0,No,,Mumbai,Pending
+P024,Neha,69,Male,Appendicitis,General Surgery,Dr. Patel,2026-01-22,2026-01-31,9,196843.0,Yes,Star Health,Mumbai,Paid
+P025,Ananya,42,Male,Migraine,Neurology,Dr. Singh,2026-06-02,2026-06-10,8,241710.0,No,,Nagpur,Pending
+P026,Meera,65,Female,Appendicitis,General Surgery,Dr. Patel,2026-01-02,2026-01-08,6,84597.0,Yes,ICICI Lombard,Pune,Pending
+P027,Sneha,64,Female,Migraine,Neurology,Dr. Rao,2026-04-04,2026-04-09,5,15384.0,Yes,ICICI Lombard,Nashik,Pending
+P028,Neha,39,Female,Fracture,Orthopedics,Dr. Kulkarni,2026-04-08,2026-04-15,7,151034.0,No,,Kolhapur,Pending
+P029,Sneha,80,Female,Migraine,Neurology,Dr. Rao,2026-03-04,2026-03-12,8,127899.0,Yes,Star Health,Mumbai,Pending
+P030,Rohan,19,Male,Asthma,Pulmonology,Dr. Verma,2026-06-04,2026-06-06,2,137861.0,No,,Mumbai,Paid
+P031,Neha,56,Male,Migraine,Neurology,Dr. Patel,2026-06-05,2026-06-15,10,187820.0,No,,Nagpur,Pending
+P032,Rahul,40,Female,Migraine,Neurology,Dr. Mehta,2026-02-17,2026-02-26,9,244529.0,Yes,HDFC Ergo,Nashik,Pending
+P033,Sneha,32,Female,COVID-19,General Medicine,Dr. Mehta,2026-02-23,2026-03-04,9,35994.0,No,,Mumbai,Paid
+P034,Sneha,52,Male,Dengue,General Medicine,Dr. Kulkarni,2026-03-04,2026-03-09,5,153017.0,Yes,HDFC Ergo,Mumbai,Pending
+P035,Rohan,53,Female,COVID-19,General Medicine,Dr. Shah,2026-05-23,2026-05-27,4,29750.0,Yes,HDFC Ergo,Nashik,Paid
+P036,Meera,77,Male,Asthma,Pulmonology,Dr. Verma,2026-02-11,2026-02-21,10,205557.0,No,,Mumbai,Paid
+P037,Vikram,20,Female,Kidney Stone,Urology,Dr. Kulkarni,2026-04-21,2026-04-30,9,229564.0,No,,Mumbai,Pending
+P038,Meera,33,Male,Heart Disease,Cardiology,Dr. Rao,2026-03-01,2026-03-09,8,213315.0,No,,Pune,Paid
+P039,Ananya,18,Female,Dengue,General Medicine,Dr. Khan,2026-03-04,2026-03-12,8,125232.0,Yes,HDFC Ergo,Nagpur,Pending
+P040,Meera,43,Male,Heart Disease,Cardiology,Dr. Singh,2026-01-27,2026-01-31,4,138050.0,Yes,ICICI Lombard,Mumbai,Pending
+P041,Amit,75,Male,Asthma,Pulmonology,Dr. Mehta,2026-05-22,2026-05-26,4,172520.0,Yes,Niva Bupa,Nagpur,Pending
+P042,Neha,33,Male,Dengue,General Medicine,Dr. Rao,2026-03-20,2026-03-22,2,34097.0,Yes,Star Health,Nashik,Pending
+P043,Rohan,59,Male,Diabetes,Endocrinology,Dr. Khan,2026-05-02,2026-05-03,1,63260.0,Yes,Care Health,Pune,Pending
+P044,Rohan,51,Female,Asthma,Pulmonology,Dr. Kulkarni,2026-04-24,2026-04-29,5,57514.0,Yes,Care Health,Kolhapur,Pending
+P045,Vikram,64,Female,COVID-19,General Medicine,Dr. Verma,2026-05-09,2026-05-19,10,113440.0,Yes,ICICI Lombard,Nashik,Paid
+P046,Sneha,69,Male,Migraine,Neurology,Dr. Kulkarni,2026-05-08,2026-05-15,7,150065.0,No,,Kolhapur,Paid
+P047,Vikram,52,Male,Appendicitis,General Surgery,Dr. Mehta,2026-03-30,2026-04-06,7,171152.0,No,,Nagpur,Paid
+P048,Meera,76,Male,Asthma,Pulmonology,Dr. Patel,2026-06-18,2026-06-24,6,194497.0,No,,Pune,Pending
+P049,Vikram,78,Female,Diabetes,Endocrinology,Dr. Patel,2026-04-07,2026-04-10,3,155108.0,Yes,Star Health,Nagpur,Pending
+P050,Vikram,24,Male,Asthma,Pulmonology,Dr. Khan,2026-04-11,2026-04-14,3,121583.0,Yes,ICICI Lombard,Mumbai,Pending
+P051,Priya,56,Female,Kidney Stone,Urology,Dr. Shah,2026-06-19,2026-06-22,3,34943.0,No,,Mumbai,Pending
+P052,Sneha,59,Female,Dengue,General Medicine,Dr. Shah,2026-03-13,2026-03-23,10,116541.0,Yes,HDFC Ergo,Mumbai,Pending
+P053,Sneha,42,Female,Fracture,Orthopedics,Dr. Patel,2026-04-23,2026-04-27,4,150681.0,Yes,Care Health,Mumbai,Paid
+P054,Karan,22,Male,Heart Disease,Cardiology,Dr. Mehta,2026-04-20,2026-04-25,5,199632.0,No,,Mumbai,Paid
+P055,Sneha,52,Female,Heart Disease,Cardiology,Dr. Shah,2026-04-14,2026-04-23,9,27315.0,No,,Nashik,Paid
+P056,Ananya,35,Male,Fracture,Orthopedics,Dr. Singh,2026-06-24,2026-06-29,5,39276.0,Yes,Niva Bupa,Pune,Pending
+P057,Priya,46,Female,Heart Disease,Cardiology,Dr. Kulkarni,2026-05-08,2026-05-14,6,183485.0,Yes,HDFC Ergo,Kolhapur,Pending
+P058,Ananya,34,Female,Heart Disease,Cardiology,Dr. Khan,2026-06-15,2026-06-20,5,175316.0,Yes,Star Health,Mumbai,Pending
+P059,Meera,37,Male,Diabetes,Endocrinology,Dr. Mehta,2026-04-17,2026-04-18,1,113237.0,Yes,Care Health,Nagpur,Pending
+P060,Meera,66,Female,Kidney Stone,Urology,Dr. Rao,2026-04-26,2026-04-29,3,221166.0,No,,Kolhapur,Pending
+P061,Sneha,37,Male,Diabetes,Endocrinology,Dr. Singh,2026-06-21,2026-06-22,1,42798.0,Yes,ICICI Lombard,Mumbai,Pending
+P062,Rahul,49,Male,Kidney Stone,Urology,Dr. Mehta,2026-04-11,2026-04-15,4,47181.0,Yes,HDFC Ergo,Nashik,Paid
+P063,Ananya,38,Female,Heart Disease,Cardiology,Dr. Singh,2026-05-20,2026-05-24,4,202809.0,Yes,Star Health,Nashik,Paid
+P064,Meera,75,Male,Asthma,Pulmonology,Dr. Verma,2026-03-05,2026-03-10,5,158600.0,No,,Nashik,Paid
+P065,Ananya,40,Male,Pneumonia,Pulmonology,Dr. Mehta,2026-01-07,2026-01-11,4,198282.0,No,,Kolhapur,Paid
+P066,Neha,45,Female,Appendicitis,General Surgery,Dr. Patel,2026-06-12,2026-06-21,9,248020.0,Yes,ICICI Lombard,Pune,Pending
+P067,Meera,79,Male,Migraine,Neurology,Dr. Patel,2026-01-20,2026-01-24,4,32169.0,Yes,HDFC Ergo,Nashik,Pending
+P068,Amit,45,Female,Migraine,Neurology,Dr. Shah,2026-05-29,2026-05-30,1,206535.0,No,,Nashik,Paid
+P069,Neha,79,Female,COVID-19,General Medicine,Dr. Patel,2026-01-03,2026-01-09,6,156171.0,No,,Pune,Pending
+P070,Rohan,74,Female,Heart Disease,Cardiology,Dr. Patel,2026-02-28,2026-03-06,6,69295.0,Yes,Care Health,Nagpur,Paid
+P071,Rahul,50,Female,Appendicitis,General Surgery,Dr. Shah,2026-03-08,2026-03-11,3,115017.0,Yes,HDFC Ergo,Kolhapur,Paid
+P072,Rohan,36,Female,Asthma,Pulmonology,Dr. Kulkarni,2026-01-06,2026-01-12,6,202738.0,No,,Mumbai,Paid
+P073,Ananya,33,Male,Asthma,Pulmonology,Dr. Khan,2026-05-25,2026-05-28,3,71939.0,Yes,Niva Bupa,Nashik,Pending
+P074,Karan,54,Female,Diabetes,Endocrinology,Dr. Verma,2026-03-16,2026-03-17,1,74003.0,Yes,ICICI Lombard,Nagpur,Pending
+P075,Neha,71,Male,Diabetes,Endocrinology,Dr. Singh,2026-03-08,2026-03-14,6,150482.0,Yes,HDFC Ergo,Mumbai,Paid
+P076,Rahul,42,Female,Pneumonia,Pulmonology,Dr. Singh,2026-04-28,2026-05-06,8,27010.0,No,,Mumbai,Pending
+P077,Rohan,24,Female,Kidney Stone,Urology,Dr. Rao,2026-06-22,2026-06-23,1,123925.0,Yes,Niva Bupa,Mumbai,Pending
+P078,Vikram,24,Male,COVID-19,General Medicine,Dr. Singh,2026-01-04,2026-01-10,6,91441.0,Yes,Niva Bupa,Nagpur,Pending
+P079,Vikram,25,Female,Migraine,Neurology,Dr. Khan,2026-05-17,2026-05-18,1,212303.0,No,,Mumbai,Pending
+P080,Priya,20,Female,Kidney Stone,Urology,Dr. Khan,2026-04-11,2026-04-13,2,223838.0,No,,Nashik,Paid
+P081,Sneha,72,Female,COVID-19,General Medicine,Dr. Singh,2026-01-28,2026-02-03,6,226273.0,No,,Kolhapur,Pending
+P082,Vikram,65,Male,Diabetes,Endocrinology,Dr. Rao,2026-05-02,2026-05-03,1,68999.0,No,,Mumbai,Paid
+P083,Sneha,31,Female,COVID-19,General Medicine,Dr. Patel,2026-03-14,2026-03-17,3,235986.0,No,,Mumbai,Paid
+P084,Vikram,25,Male,COVID-19,General Medicine,Dr. Rao,2026-06-19,2026-06-26,7,219779.0,No,,Pune,Paid
+P085,Amit,67,Female,Fracture,Orthopedics,Dr. Verma,2026-03-08,2026-03-09,1,138046.0,No,,Pune,Pending
+P086,Priya,36,Female,Heart Disease,Cardiology,Dr. Khan,2026-04-13,2026-04-21,8,144574.0,No,,Mumbai,Pending
+P087,Sneha,69,Female,Dengue,General Medicine,Dr. Verma,2026-05-26,2026-05-31,5,213575.0,No,,Kolhapur,Pending
+P088,Sneha,42,Female,Fracture,Orthopedics,Dr. Kulkarni,2026-04-25,2026-05-02,7,223875.0,No,,Nagpur,Paid
+P089,Meera,51,Female,Diabetes,Endocrinology,Dr. Singh,2026-06-23,2026-07-03,10,137521.0,Yes,Star Health,Nagpur,Paid
+P090,Ananya,61,Female,Dengue,General Medicine,Dr. Kulkarni,2026-03-27,2026-04-02,6,160435.0,Yes,Niva Bupa,Pune,Pending
+P091,Priya,54,Male,Heart Disease,Cardiology,Dr. Rao,2026-06-15,2026-06-19,4,221202.0,Yes,Star Health,Nagpur,Pending
+P092,Priya,22,Female,Dengue,General Medicine,Dr. Verma,2026-02-24,2026-02-26,2,95162.0,No,,Nagpur,Paid
+P093,Amit,22,Male,COVID-19,General Medicine,Dr. Shah,2026-05-09,2026-05-18,9,202168.0,Yes,Star Health,Kolhapur,Paid
+P094,Amit,52,Male,Dengue,General Medicine,Dr. Singh,2026-01-29,2026-02-01,3,113291.0,Yes,Star Health,Nagpur,Pending
+P095,Karan,43,Female,Kidney Stone,Urology,Dr. Shah,2026-04-20,2026-04-29,9,79890.0,No,,Pune,Paid
+P096,Meera,47,Female,Asthma,Pulmonology,Dr. Mehta,2026-05-05,2026-05-14,9,202382.0,Yes,Niva Bupa,Pune,Paid
+P097,Rohan,72,Male,Diabetes,Endocrinology,Dr. Kulkarni,2026-06-19,2026-06-26,7,137407.0,Yes,Care Health,Kolhapur,Pending
+P098,Vikram,43,Male,Pneumonia,Pulmonology,Dr. Khan,2026-06-06,2026-06-10,4,26900.0,No,,Pune,Pending
+P099,Amit,70,Female,Pneumonia,Pulmonology,Dr. Kulkarni,2026-01-27,2026-01-28,1,84641.0,No,,Pune,Paid
+P100,Rohan,60,Male,Asthma,Pulmonology,Dr. Shah,2026-03-06,2026-03-09,3,195900.0,No,,Mumbai,Paid
+P101,Karan,21,Female,Migraine,Neurology,Dr. Verma,2026-01-02,2026-01-04,2,154797.0,Yes,Niva Bupa,Kolhapur,Paid
+P102,Vikram,47,Male,Kidney Stone,Urology,Dr. Verma,2026-06-06,2026-06-16,10,244949.0,No,,Nashik,Pending
+P103,Meera,52,Female,Asthma,Pulmonology,Dr. Shah,2026-05-13,2026-05-16,3,203347.0,Yes,Care Health,Mumbai,Pending
+P104,Amit,54,Female,Heart Disease,Cardiology,Dr. Patel,2026-05-05,2026-05-14,9,97813.0,Yes,HDFC Ergo,Pune,Paid
+P105,Karan,44,Male,Pneumonia,Pulmonology,Dr. Kulkarni,2026-01-13,2026-01-21,8,149760.0,No,,Mumbai,Paid
+P106,Ananya,74,Female,Appendicitis,General Surgery,Dr. Verma,2026-06-18,2026-06-23,5,110776.0,No,,Mumbai,Pending
+P107,Neha,23,Female,Asthma,Pulmonology,Dr. Rao,2026-03-19,2026-03-24,5,128607.0,No,,Pune,Paid
+P108,Rahul,72,Female,Heart Disease,Cardiology,Dr. Khan,2026-06-24,2026-06-25,1,42933.0,No,,Pune,Pending
+P109,Amit,22,Female,COVID-19,General Medicine,Dr. Verma,2026-05-31,2026-06-10,10,93692.0,No,,Pune,Paid
+P110,Amit,30,Male,Asthma,Pulmonology,Dr. Verma,2026-06-27,2026-06-28,1,81457.0,Yes,HDFC Ergo,Kolhapur,Pending
+P111,Karan,65,Male,COVID-19,General Medicine,Dr. Khan,2026-06-15,2026-06-19,4,41799.0,No,,Mumbai,Pending
+P112,Ananya,54,Female,Appendicitis,General Surgery,Dr. Rao,2026-02-10,2026-02-20,10,177015.0,Yes,Care Health,Nagpur,Paid
+P113,Ananya,31,Female,Heart Disease,Cardiology,Dr. Singh,2026-04-03,2026-04-12,9,200243.0,Yes,Star Health,Mumbai,Paid
+P114,Ananya,58,Female,Appendicitis,General Surgery,Dr. Patel,2026-06-23,2026-07-02,9,148238.0,No,,Nashik,Paid
+P115,Meera,65,Male,Dengue,General Medicine,Dr. Khan,2026-05-31,2026-06-04,4,83632.0,Yes,Star Health,Nashik,Pending
+P116,Rohan,22,Female,Heart Disease,Cardiology,Dr. Shah,2026-03-16,2026-03-21,5,21736.0,No,,Nagpur,Paid
+P117,Sneha,56,Male,COVID-19,General Medicine,Dr. Kulkarni,2026-06-30,2026-07-09,9,160821.0,Yes,HDFC Ergo,Nagpur,Pending
+P118,Ananya,44,Male,COVID-19,General Medicine,Dr. Patel,2026-02-18,2026-02-22,4,96206.0,Yes,HDFC Ergo,Pune,Pending
+P119,Priya,27,Female,Appendicitis,General Surgery,Dr. Patel,2026-03-07,2026-03-12,5,154462.0,No,,Mumbai,Pending
+P120,Rohan,39,Female,Heart Disease,Cardiology,Dr. Verma,2026-05-31,2026-06-02,2,16660.0,Yes,HDFC Ergo,Nagpur,Pending
+P121,Vikram,69,Female,Diabetes,Endocrinology,Dr. Patel,2026-01-05,2026-01-15,10,49881.0,No,,Mumbai,Paid
+P122,Priya,76,Female,Heart Disease,Cardiology,Dr. Shah,2026-03-28,2026-04-01,4,159480.0,Yes,ICICI Lombard,Nagpur,Paid
+P123,Meera,46,Female,Fracture,Orthopedics,Dr. Patel,2026-04-03,2026-04-12,9,38319.0,Yes,Star Health,Mumbai,Paid
+P124,Vikram,55,Female,Dengue,General Medicine,Dr. Mehta,2026-06-25,2026-06-27,2,42830.0,No,,Kolhapur,Pending
+P125,Meera,57,Male,Appendicitis,General Surgery,Dr. Patel,2026-02-09,2026-02-10,1,68740.0,No,,Nashik,Pending
+P126,Karan,64,Female,Asthma,Pulmonology,Dr. Mehta,2026-04-10,2026-04-14,4,125649.0,Yes,ICICI Lombard,Kolhapur,Paid
+P127,Neha,44,Female,Heart Disease,Cardiology,Dr. Rao,2026-02-24,2026-03-04,8,84201.0,Yes,ICICI Lombard,Mumbai,Paid
+P128,Rahul,33,Female,Dengue,General Medicine,Dr. Khan,2026-06-04,2026-06-11,7,232837.0,Yes,HDFC Ergo,Mumbai,Paid
+P129,Sneha,76,Female,Kidney Stone,Urology,Dr. Khan,2026-05-08,2026-05-11,3,86338.0,No,,Nagpur,Paid
+P130,Amit,23,Female,Diabetes,Endocrinology,Dr. Patel,2026-04-02,2026-04-06,4,249171.0,No,,Nashik,Paid
+P131,Priya,43,Female,COVID-19,General Medicine,Dr. Mehta,2026-01-18,2026-01-24,6,234602.0,Yes,Star Health,Nashik,Pending
+P132,Rahul,78,Female,Pneumonia,Pulmonology,Dr. Singh,2026-01-17,2026-01-24,7,127701.0,Yes,HDFC Ergo,Nagpur,Pending
+P133,Meera,23,Male,Appendicitis,General Surgery,Dr. Singh,2026-03-18,2026-03-20,2,64680.0,No,,Nashik,Pending
+P134,Rohan,23,Male,Fracture,Orthopedics,Dr. Shah,2026-05-25,2026-05-31,6,72557.0,Yes,Star Health,Nashik,Paid
+P135,Ananya,62,Female,Dengue,General Medicine,Dr. Shah,2026-04-21,2026-04-26,5,34942.0,No,,Nagpur,Paid
+P136,Vikram,55,Male,Dengue,General Medicine,Dr. Khan,2026-04-04,2026-04-14,10,64363.0,No,,Mumbai,Pending
+P137,Priya,54,Male,Diabetes,Endocrinology,Dr. Verma,2026-01-25,2026-02-01,7,172490.0,No,,Nashik,Pending
+P138,Neha,78,Male,Diabetes,Endocrinology,Dr. Kulkarni,2026-04-06,2026-04-11,5,138617.0,No,,Mumbai,Paid
+P139,Neha,41,Male,Fracture,Orthopedics,Dr. Rao,2026-05-09,2026-05-14,5,146298.0,No,,Mumbai,Pending
+P140,Rohan,24,Male,Fracture,Orthopedics,Dr. Verma,2026-06-16,2026-06-19,3,207104.0,No,,Kolhapur,Paid
+P141,Rohan,80,Male,Dengue,General Medicine,Dr. Kulkarni,2026-04-20,2026-04-26,6,208462.0,Yes,Care Health,Pune,Paid
+P142,Ananya,47,Male,Migraine,Neurology,Dr. Kulkarni,2026-01-18,2026-01-21,3,55440.0,No,,Nashik,Paid
+P143,Vikram,33,Female,COVID-19,General Medicine,Dr. Singh,2026-06-18,2026-06-21,3,113925.0,Yes,HDFC Ergo,Pune,Paid
+P144,Priya,42,Female,Dengue,General Medicine,Dr. Rao,2026-04-15,2026-04-25,10,69469.0,Yes,Niva Bupa,Pune,Pending
+P145,Meera,76,Male,Diabetes,Endocrinology,Dr. Shah,2026-06-12,2026-06-19,7,243154.0,No,,Pune,Paid
+P146,Vikram,23,Female,Asthma,Pulmonology,Dr. Shah,2026-03-26,2026-03-28,2,130386.0,Yes,Care Health,Nagpur,Paid
+P147,Amit,35,Male,Fracture,Orthopedics,Dr. Shah,2026-03-11,2026-03-12,1,141290.0,No,,Mumbai,Paid
+P148,Vikram,48,Male,Heart Disease,Cardiology,Dr. Shah,2026-01-25,2026-02-01,7,44527.0,Yes,Niva Bupa,Nagpur,Paid
+P149,Neha,72,Male,Dengue,General Medicine,Dr. Mehta,2026-03-16,2026-03-18,2,145022.0,Yes,ICICI Lombard,Nashik,Paid
+P150,Ananya,48,Female,Fracture,Orthopedics,Dr. Khan,2026-02-26,2026-03-02,4,25601.0,No,,Mumbai,Pending
+P151,Sneha,77,Male,Asthma,Pulmonology,Dr. Shah,2026-01-18,2026-01-21,3,94791.0,Yes,HDFC Ergo,Mumbai,Paid
+P152,Vikram,80,Male,Heart Disease,Cardiology,Dr. Kulkarni,2026-06-17,2026-06-26,9,102294.0,No,,Pune,Pending
+P153,Meera,36,Female,Diabetes,Endocrinology,Dr. Verma,2026-04-03,2026-04-04,1,134744.0,No,,Mumbai,Paid
+P154,Rohan,28,Female,Asthma,Pulmonology,Dr. Mehta,2026-03-03,2026-03-11,8,93677.0,No,,Mumbai,Paid
+P155,Ananya,36,Female,COVID-19,General Medicine,Dr. Kulkarni,2026-06-28,2026-07-01,3,55898.0,No,,Kolhapur,Pending
+P156,Ananya,61,Male,Appendicitis,General Surgery,Dr. Khan,2026-04-17,2026-04-21,4,69895.0,No,,Kolhapur,Paid
+P157,Rahul,27,Female,Heart Disease,Cardiology,Dr. Singh,2026-04-27,2026-05-02,5,40964.0,No,,Nashik,Paid
+P158,Sneha,65,Male,Asthma,Pulmonology,Dr. Verma,2026-03-01,2026-03-03,2,181993.0,Yes,HDFC Ergo,Kolhapur,Pending
+P159,Rohan,30,Male,Pneumonia,Pulmonology,Dr. Kulkarni,2026-03-29,2026-04-01,3,222910.0,Yes,Care Health,Nagpur,Paid
+P160,Rohan,75,Female,Heart Disease,Cardiology,Dr. Singh,2026-03-19,2026-03-26,7,45033.0,Yes,ICICI Lombard,Mumbai,Paid
+P161,Karan,30,Male,Pneumonia,Pulmonology,Dr. Patel,2026-01-03,2026-01-11,8,31809.0,Yes,ICICI Lombard,Nagpur,Pending
+P162,Ananya,63,Male,Dengue,General Medicine,Dr. Kulkarni,2026-06-29,2026-07-08,9,172948.0,No,,Nagpur,Pending
+P163,Ananya,64,Male,Dengue,General Medicine,Dr. Verma,2026-04-25,2026-04-29,4,234768.0,No,,Pune,Pending
+P164,Meera,65,Female,Kidney Stone,Urology,Dr. Shah,2026-01-30,2026-02-07,8,93950.0,No,,Nagpur,Paid
+P165,Rahul,75,Female,Pneumonia,Pulmonology,Dr. Mehta,2026-03-30,2026-04-05,6,208712.0,No,,Mumbai,Pending
+P166,Sneha,62,Male,COVID-19,General Medicine,Dr. Mehta,2026-02-20,2026-02-26,6,104380.0,Yes,Care Health,Mumbai,Pending
+P167,Rahul,25,Female,Fracture,Orthopedics,Dr. Verma,2026-04-13,2026-04-21,8,195943.0,Yes,ICICI Lombard,Kolhapur,Pending
+P168,Amit,73,Male,COVID-19,General Medicine,Dr. Mehta,2026-01-25,2026-02-04,10,95305.0,Yes,HDFC Ergo,Nashik,Paid
+P169,Vikram,44,Male,Dengue,General Medicine,Dr. Singh,2026-04-09,2026-04-15,6,236174.0,Yes,Care Health,Nashik,Pending
+P170,Neha,73,Female,Dengue,General Medicine,Dr. Shah,2026-01-07,2026-01-11,4,70669.0,Yes,Care Health,Mumbai,Paid
+P171,Priya,27,Male,Appendicitis,General Surgery,Dr. Khan,2026-05-03,2026-05-10,7,212958.0,No,,Pune,Paid
+P172,Priya,26,Male,Pneumonia,Pulmonology,Dr. Verma,2026-01-18,2026-01-27,9,201077.0,No,,Nashik,Paid
+P173,Rohan,67,Female,Appendicitis,General Surgery,Dr. Mehta,2026-05-02,2026-05-07,5,239147.0,Yes,Niva Bupa,Kolhapur,Pending
+P174,Meera,52,Female,Fracture,Orthopedics,Dr. Shah,2026-03-02,2026-03-05,3,77211.0,No,,Nashik,Paid
+P175,Rohan,80,Female,Diabetes,Endocrinology,Dr. Khan,2026-02-06,2026-02-07,1,212808.0,No,,Pune,Paid
+P176,Priya,56,Male,Heart Disease,Cardiology,Dr. Patel,2026-04-08,2026-04-10,2,74003.0,No,,Mumbai,Paid
+P177,Sneha,67,Male,COVID-19,General Medicine,Dr. Singh,2026-04-15,2026-04-24,9,185818.0,No,,Nashik,Pending
+P178,Priya,30,Male,Diabetes,Endocrinology,Dr. Mehta,2026-06-07,2026-06-11,4,118598.0,Yes,Star Health,Nagpur,Paid
+P179,Sneha,60,Female,Heart Disease,Cardiology,Dr. Kulkarni,2026-01-03,2026-01-12,9,82124.0,No,,Kolhapur,Paid
+P180,Vikram,48,Female,Appendicitis,General Surgery,Dr. Singh,2026-03-30,2026-04-09,10,121567.0,Yes,ICICI Lombard,Nashik,Pending
+P181,Amit,34,Female,Migraine,Neurology,Dr. Singh,2026-06-13,2026-06-15,2,30000.0,No,,Nagpur,Paid
+P182,Karan,45,Male,Kidney Stone,Urology,Dr. Khan,2026-01-26,2026-02-03,8,32864.0,No,,Pune,Pending
+P183,Rahul,57,Male,COVID-19,General Medicine,Dr. Rao,2026-03-28,2026-04-02,5,37408.0,Yes,Care Health,Kolhapur,Paid
+P184,Karan,23,Female,Asthma,Pulmonology,Dr. Rao,2026-02-03,2026-02-05,2,236355.0,Yes,Star Health,Mumbai,Pending
+P185,Karan,26,Male,Diabetes,Endocrinology,Dr. Kulkarni,2026-05-10,2026-05-18,8,223077.0,No,,Mumbai,Pending
+P186,Sneha,21,Male,Migraine,Neurology,Dr. Singh,2026-04-21,2026-04-30,9,45319.0,Yes,HDFC Ergo,Mumbai,Pending
+P187,Rohan,64,Male,Asthma,Pulmonology,Dr. Singh,2026-03-05,2026-03-06,1,114028.0,Yes,Star Health,Kolhapur,Pending
+P188,Priya,67,Female,COVID-19,General Medicine,Dr. Patel,2026-05-07,2026-05-10,3,133835.0,No,,Nashik,Paid
+P189,Meera,56,Male,Diabetes,Endocrinology,Dr. Mehta,2026-06-24,2026-06-27,3,112800.0,Yes,ICICI Lombard,Nagpur,Paid
+P190,Amit,54,Female,Heart Disease,Cardiology,Dr. Patel,2026-02-11,2026-02-16,5,75732.0,Yes,Niva Bupa,Pune,Paid
+P191,Ananya,75,Male,Kidney Stone,Urology,Dr. Singh,2026-04-25,2026-04-29,4,30370.0,Yes,Niva Bupa,Nagpur,Pending
+P192,Priya,64,Female,COVID-19,General Medicine,Dr. Kulkarni,2026-04-21,2026-05-01,10,99902.0,Yes,Care Health,Nagpur,Paid
+P193,Rahul,54,Male,Asthma,Pulmonology,Dr. Shah,2026-04-09,2026-04-16,7,170878.0,No,,Pune,Pending
+P194,Vikram,48,Male,Heart Disease,Cardiology,Dr. Patel,2026-02-03,2026-02-10,7,177605.0,Yes,Care Health,Kolhapur,Paid
+P195,Rohan,77,Male,Diabetes,Endocrinology,Dr. Mehta,2026-04-12,2026-04-14,2,90084.0,Yes,Niva Bupa,Pune,Paid
+P196,Rahul,29,Male,Heart Disease,Cardiology,Dr. Patel,2026-03-05,2026-03-12,7,37156.0,No,,Kolhapur,Paid
+P197,Rahul,30,Female,Diabetes,Endocrinology,Dr. Mehta,2026-05-01,2026-05-03,2,159323.0,No,,Kolhapur,Pending
+P198,Meera,40,Female,Appendicitis,General Surgery,Dr. Singh,2026-06-19,2026-06-28,9,141260.0,No,,Kolhapur,Paid
+P199,Priya,19,Female,Kidney Stone,Urology,Dr. Shah,2026-04-05,2026-04-11,6,246706.0,No,,Nashik,Paid
+P200,Karan,28,Male,Kidney Stone,Urology,Dr. Patel,2026-05-29,2026-06-03,5,102163.0,Yes,ICICI Lombard,Nagpur,Paid
+P201,Neha,60,Male,Diabetes,Endocrinology,Dr. Kulkarni,2026-06-12,2026-06-20,8,124018.0,Yes,Star Health,Kolhapur,Paid
+P202,Vikram,28,Female,Migraine,Neurology,Dr. Patel,2026-01-18,2026-01-23,5,170812.0,Yes,Care Health,Nagpur,Pending
+P203,Karan,25,Male,Heart Disease,Cardiology,Dr. Shah,2026-04-03,2026-04-05,2,98074.0,Yes,ICICI Lombard,Pune,Pending
+P204,Meera,46,Female,COVID-19,General Medicine,Dr. Rao,2026-06-11,2026-06-20,9,214797.0,No,,Nagpur,Paid
+P205,Meera,74,Male,Fracture,Orthopedics,Dr. Kulkarni,2026-05-27,2026-06-06,10,44618.0,Yes,Niva Bupa,Mumbai,Pending
+P206,Rahul,46,Female,Appendicitis,General Surgery,Dr. Patel,2026-06-20,2026-06-30,10,67320.0,No,,Nagpur,Pending
+P207,Sneha,76,Female,Pneumonia,Pulmonology,Dr. Khan,2026-04-21,2026-04-25,4,94627.0,Yes,HDFC Ergo,Nagpur,Paid
+P208,Meera,29,Female,Appendicitis,General Surgery,Dr. Singh,2026-04-25,2026-05-04,9,141327.0,No,,Mumbai,Pending
+P209,Karan,73,Female,Appendicitis,General Surgery,Dr. Verma,2026-02-25,2026-03-02,5,249786.0,Yes,Niva Bupa,Nagpur,Pending
+P210,Meera,67,Female,Heart Disease,Cardiology,Dr. Verma,2026-02-16,2026-02-23,7,132611.0,Yes,Star Health,Kolhapur,Paid
+P211,Priya,24,Male,Dengue,General Medicine,Dr. Verma,2026-01-11,2026-01-19,8,53559.0,No,,Kolhapur,Pending
+P212,Rohan,19,Male,Asthma,Pulmonology,Dr. Singh,2026-06-26,2026-07-06,10,147317.0,No,,Kolhapur,Paid
+P213,Rahul,42,Male,Kidney Stone,Urology,Dr. Verma,2026-01-19,2026-01-27,8,50983.0,Yes,Star Health,Pune,Paid
+P214,Priya,71,Male,COVID-19,General Medicine,Dr. Rao,2026-04-05,2026-04-13,8,35009.0,No,,Nashik,Paid
+P215,Ananya,45,Male,Fracture,Orthopedics,Dr. Singh,2026-04-05,2026-04-08,3,182083.0,Yes,Niva Bupa,Pune,Paid
+P216,Neha,23,Male,Kidney Stone,Urology,Dr. Kulkarni,2026-06-03,2026-06-07,4,70173.0,No,,Nagpur,Paid
+P217,Amit,63,Male,Diabetes,Endocrinology,Dr. Verma,2026-03-06,2026-03-15,9,205065.0,Yes,Care Health,Mumbai,Pending
+P218,Karan,70,Male,Migraine,Neurology,Dr. Rao,2026-01-25,2026-01-26,1,105754.0,Yes,Care Health,Mumbai,Paid
+P219,Priya,59,Male,Appendicitis,General Surgery,Dr. Mehta,2026-06-30,2026-07-04,4,109979.0,Yes,ICICI Lombard,Pune,Paid
+P220,Ananya,20,Female,Dengue,General Medicine,Dr. Mehta,2026-05-12,2026-05-20,8,145994.0,Yes,Niva Bupa,Nagpur,Pending
+P221,Priya,54,Male,Appendicitis,General Surgery,Dr. Mehta,2026-03-15,2026-03-20,5,33798.0,No,,Mumbai,Pending
+P222,Sneha,42,Male,Fracture,Orthopedics,Dr. Khan,2026-06-16,2026-06-22,6,173398.0,Yes,Niva Bupa,Nashik,Pending
+P223,Sneha,77,Female,Pneumonia,Pulmonology,Dr. Shah,2026-03-29,2026-04-07,9,112402.0,No,,Nashik,Paid
+P224,Sneha,70,Male,Heart Disease,Cardiology,Dr. Mehta,2026-04-16,2026-04-20,4,239959.0,No,,Kolhapur,Pending
+P225,Rohan,37,Male,Asthma,Pulmonology,Dr. Shah,2026-04-08,2026-04-13,5,143110.0,No,,Nashik,Paid
+P226,Vikram,71,Female,Dengue,General Medicine,Dr. Khan,2026-01-20,2026-01-28,8,168369.0,Yes,HDFC Ergo,Nashik,Paid
+P227,Ananya,57,Female,Heart Disease,Cardiology,Dr. Patel,2026-04-14,2026-04-21,7,180029.0,Yes,Star Health,Nashik,Paid
+P228,Meera,67,Female,Appendicitis,General Surgery,Dr. Mehta,2026-02-11,2026-02-12,1,171825.0,Yes,HDFC Ergo,Kolhapur,Paid
+P229,Neha,61,Female,Heart Disease,Cardiology,Dr. Shah,2026-02-27,2026-03-01,2,38595.0,Yes,Niva Bupa,Nagpur,Pending
+P230,Rohan,69,Male,Pneumonia,Pulmonology,Dr. Patel,2026-02-15,2026-02-16,1,217607.0,No,,Mumbai,Pending
+P231,Vikram,63,Female,Dengue,General Medicine,Dr. Mehta,2026-03-18,2026-03-21,3,131403.0,Yes,Niva Bupa,Mumbai,Pending
+P232,Meera,35,Female,Kidney Stone,Urology,Dr. Khan,2026-02-20,2026-02-27,7,21819.0,No,,Mumbai,Pending
+P233,Karan,23,Female,Kidney Stone,Urology,Dr. Rao,2026-05-05,2026-05-13,8,140723.0,No,,Nashik,Pending
+P234,Neha,46,Male,Fracture,Orthopedics,Dr. Shah,2026-05-06,2026-05-07,1,99687.0,Yes,ICICI Lombard,Nagpur,Pending
+P235,Ananya,38,Male,COVID-19,General Medicine,Dr. Verma,2026-06-18,2026-06-19,1,43501.0,No,,Nagpur,Pending
+P236,Sneha,36,Female,Kidney Stone,Urology,Dr. Shah,2026-05-13,2026-05-21,8,54402.0,No,,Nashik,Pending
+P237,Rohan,41,Male,Kidney Stone,Urology,Dr. Khan,2026-06-27,2026-07-01,4,63855.0,Yes,Niva Bupa,Kolhapur,Pending
+P238,Karan,55,Male,Kidney Stone,Urology,Dr. Singh,2026-05-24,2026-05-27,3,40385.0,No,,Nashik,Paid
+P239,Meera,45,Male,Dengue,General Medicine,Dr. Singh,2026-01-31,2026-02-02,2,21286.0,Yes,ICICI Lombard,Nagpur,Pending
+P240,Amit,65,Male,Fracture,Orthopedics,Dr. Shah,2026-05-16,2026-05-24,8,63692.0,Yes,HDFC Ergo,Nagpur,Paid
+P241,Sneha,49,Male,Dengue,General Medicine,Dr. Khan,2026-02-10,2026-02-12,2,133386.0,No,,Nashik,Pending
+P242,Karan,24,Female,Asthma,Pulmonology,Dr. Khan,2026-03-20,2026-03-22,2,128834.0,No,,Mumbai,Paid
+P243,Meera,67,Female,Migraine,Neurology,Dr. Patel,2026-02-04,2026-02-07,3,114990.0,Yes,HDFC Ergo,Kolhapur,Pending
+P244,Meera,62,Male,Kidney Stone,Urology,Dr. Kulkarni,2026-06-13,2026-06-15,2,69780.0,Yes,Niva Bupa,Kolhapur,Pending
+P245,Ananya,55,Male,Heart Disease,Cardiology,Dr. Verma,2026-06-09,2026-06-10,1,39758.0,Yes,ICICI Lombard,Nagpur,Pending
+P246,Amit,73,Female,Pneumonia,Pulmonology,Dr. Rao,2026-03-24,2026-04-02,9,68182.0,No,,Nagpur,Pending
+P247,Priya,71,Male,Fracture,Orthopedics,Dr. Verma,2026-05-23,2026-05-27,4,83204.0,No,,Nashik,Paid
+P248,Rahul,35,Female,Fracture,Orthopedics,Dr. Shah,2026-02-07,2026-02-16,9,72862.0,No,,Mumbai,Paid
+P249,Priya,75,Female,Asthma,Pulmonology,Dr. Mehta,2026-02-27,2026-03-03,4,207012.0,Yes,Care Health,Nagpur,Pending
+P250,Karan,36,Male,Heart Disease,Cardiology,Dr. Shah,2026-01-13,2026-01-23,10,107656.0,No,,Kolhapur,Paid
+P251,Neha,72,Female,Appendicitis,General Surgery,Dr. Mehta,2026-02-09,2026-02-17,8,46859.0,No,,Kolhapur,Pending
+P252,Sneha,41,Female,Migraine,Neurology,Dr. Verma,2026-01-25,2026-02-03,9,92311.0,Yes,ICICI Lombard,Nagpur,Pending
+P253,Amit,62,Female,COVID-19,General Medicine,Dr. Rao,2026-02-10,2026-02-14,4,99342.0,Yes,Star Health,Mumbai,Paid
+P254,Sneha,66,Female,Migraine,Neurology,Dr. Khan,2026-05-01,2026-05-06,5,170111.0,Yes,ICICI Lombard,Nagpur,Paid
+P255,Ananya,49,Male,Migraine,Neurology,Dr. Kulkarni,2026-03-08,2026-03-15,7,92955.0,No,,Pune,Paid
+P256,Sneha,32,Male,Heart Disease,Cardiology,Dr. Shah,2026-01-31,2026-02-03,3,71651.0,Yes,Care Health,Kolhapur,Paid
+P257,Priya,76,Female,Appendicitis,General Surgery,Dr. Verma,2026-01-11,2026-01-16,5,18919.0,No,,Nagpur,Paid
+P258,Rohan,68,Male,Fracture,Orthopedics,Dr. Mehta,2026-06-18,2026-06-23,5,197319.0,Yes,Care Health,Mumbai,Paid
+P259,Meera,47,Female,Diabetes,Endocrinology,Dr. Singh,2026-05-18,2026-05-26,8,232069.0,No,,Nagpur,Paid
+P260,Sneha,56,Female,COVID-19,General Medicine,Dr. Patel,2026-01-05,2026-01-14,9,241983.0,No,,Pune,Paid
+P261,Karan,62,Male,Asthma,Pulmonology,Dr. Patel,2026-02-24,2026-03-03,7,69864.0,Yes,ICICI Lombard,Mumbai,Pending
+P262,Vikram,24,Female,Asthma,Pulmonology,Dr. Verma,2026-02-16,2026-02-24,8,189271.0,No,,Pune,Paid
+P263,Meera,62,Female,Fracture,Orthopedics,Dr. Singh,2026-05-18,2026-05-26,8,101637.0,Yes,Niva Bupa,Pune,Paid
+P264,Neha,54,Female,Diabetes,Endocrinology,Dr. Mehta,2026-06-07,2026-06-12,5,76964.0,Yes,ICICI Lombard,Nagpur,Pending
+P265,Sneha,79,Female,Diabetes,Endocrinology,Dr. Mehta,2026-04-13,2026-04-23,10,115625.0,No,,Nashik,Paid
+P266,Vikram,67,Male,Dengue,General Medicine,Dr. Kulkarni,2026-04-24,2026-04-26,2,207978.0,No,,Mumbai,Pending
+P267,Meera,32,Male,Dengue,General Medicine,Dr. Mehta,2026-06-28,2026-06-29,1,240061.0,Yes,HDFC Ergo,Kolhapur,Pending
+P268,Karan,39,Female,Fracture,Orthopedics,Dr. Rao,2026-02-08,2026-02-18,10,125245.0,Yes,ICICI Lombard,Nashik,Paid
+P269,Rahul,46,Male,Asthma,Pulmonology,Dr. Mehta,2026-03-10,2026-03-12,2,92135.0,No,,Mumbai,Paid
+P270,Ananya,32,Male,COVID-19,General Medicine,Dr. Mehta,2026-05-22,2026-05-24,2,204338.0,No,,Pune,Pending
+P271,Sneha,40,Male,Dengue,General Medicine,Dr. Singh,2026-05-02,2026-05-03,1,199755.0,No,,Pune,Pending
+P272,Meera,45,Female,Appendicitis,General Surgery,Dr. Rao,2026-04-20,2026-04-26,6,99008.0,No,,Nashik,Pending
+P273,Rahul,50,Female,Migraine,Neurology,Dr. Khan,2026-06-06,2026-06-15,9,172424.0,No,,Pune,Pending
+P274,Meera,78,Female,Appendicitis,General Surgery,Dr. Mehta,2026-02-16,2026-02-26,10,39356.0,No,,Kolhapur,Pending
+P275,Meera,39,Female,Kidney Stone,Urology,Dr. Rao,2026-05-22,2026-05-26,4,219096.0,Yes,ICICI Lombard,Pune,Paid
+P276,Ananya,35,Male,Dengue,General Medicine,Dr. Mehta,2026-06-15,2026-06-21,6,104415.0,Yes,Care Health,Pune,Pending
+P277,Sneha,62,Female,COVID-19,General Medicine,Dr. Rao,2026-02-13,2026-02-19,6,16603.0,Yes,Star Health,Nashik,Paid
+P278,Rohan,71,Female,Pneumonia,Pulmonology,Dr. Singh,2026-03-13,2026-03-22,9,90178.0,Yes,Care Health,Nashik,Pending
+P279,Karan,45,Female,Fracture,Orthopedics,Dr. Mehta,2026-03-12,2026-03-13,1,229295.0,No,,Kolhapur,Paid
+P280,Meera,73,Male,Pneumonia,Pulmonology,Dr. Singh,2026-04-26,2026-05-03,7,112967.0,No,,Kolhapur,Paid
+P281,Ananya,20,Male,Appendicitis,General Surgery,Dr. Kulkarni,2026-01-18,2026-01-20,2,105027.0,No,,Mumbai,Paid
+P282,Sneha,70,Female,Pneumonia,Pulmonology,Dr. Shah,2026-06-30,2026-07-01,1,222473.0,Yes,Niva Bupa,Kolhapur,Paid
+P283,Sneha,56,Female,Appendicitis,General Surgery,Dr. Shah,2026-06-10,2026-06-17,7,20746.0,Yes,ICICI Lombard,Mumbai,Pending
+P284,Amit,27,Male,Asthma,Pulmonology,Dr. Shah,2026-04-14,2026-04-18,4,210105.0,No,,Nagpur,Pending
+P285,Priya,50,Female,Heart Disease,Cardiology,Dr. Shah,2026-06-16,2026-06-17,1,83002.0,No,,Nagpur,Pending
+P286,Rohan,43,Male,COVID-19,General Medicine,Dr. Mehta,2026-06-08,2026-06-09,1,79072.0,Yes,HDFC Ergo,Pune,Paid
+P287,Rahul,69,Female,Fracture,Orthopedics,Dr. Rao,2026-04-25,2026-05-04,9,249451.0,No,,Nagpur,Pending
+P288,Sneha,72,Female,Fracture,Orthopedics,Dr. Kulkarni,2026-05-22,2026-05-24,2,247366.0,No,,Nagpur,Paid
+P289,Sneha,33,Male,Migraine,Neurology,Dr. Singh,2026-02-17,2026-02-27,10,46040.0,No,,Nagpur,Paid
+P290,Meera,50,Female,Appendicitis,General Surgery,Dr. Patel,2026-03-12,2026-03-18,6,130879.0,No,,Kolhapur,Pending
+P291,Karan,71,Male,Diabetes,Endocrinology,Dr. Verma,2026-05-11,2026-05-20,9,249367.0,Yes,Care Health,Nagpur,Paid
+P292,Rahul,69,Male,Kidney Stone,Urology,Dr. Rao,2026-04-11,2026-04-20,9,188549.0,Yes,Star Health,Mumbai,Paid
+P293,Vikram,37,Male,Asthma,Pulmonology,Dr. Singh,2026-05-26,2026-06-02,7,221209.0,Yes,Niva Bupa,Nagpur,Paid
+P294,Vikram,44,Female,Kidney Stone,Urology,Dr. Khan,2026-05-20,2026-05-27,7,179219.0,No,,Kolhapur,Paid
+P295,Rahul,32,Male,Fracture,Orthopedics,Dr. Khan,2026-01-16,2026-01-18,2,136942.0,No,,Pune,Paid
+P296,Sneha,42,Male,Migraine,Neurology,Dr. Kulkarni,2026-06-18,2026-06-21,3,144412.0,No,,Mumbai,Paid
+P297,Rohan,60,Male,Fracture,Orthopedics,Dr. Patel,2026-06-19,2026-06-21,2,22591.0,No,,Nagpur,Paid
+P298,Sneha,38,Male,COVID-19,General Medicine,Dr. Rao,2026-06-22,2026-06-23,1,178574.0,No,,Nagpur,Pending
+P299,Meera,47,Male,Migraine,Neurology,Dr. Khan,2026-02-19,2026-02-26,7,129383.0,Yes,Star Health,Kolhapur,Paid
+P300,Neha,58,Female,Heart Disease,Cardiology,Dr. Khan,2026-05-17,2026-05-22,5,153436.0,No,,Kolhapur,Pending

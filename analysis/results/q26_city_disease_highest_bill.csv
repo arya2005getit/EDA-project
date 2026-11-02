@@ -1,0 +1,21 @@
+city_name,disease_name,department_name,num_admissions,total_bill,avg_bill
+Mumbai,Asthma,Pulmonology,13,1811360.00,139335.38
+Nashik,Kidney Stone,Urology,11,1426213.00,129655.73
+Nagpur,Diabetes,Endocrinology,9,1269667.00,141074.11
+Mumbai,Diabetes,Endocrinology,9,1241040.00,137893.33
+Pune,COVID-19,General Medicine,8,1205166.00,150645.75
+Kolhapur,Heart Disease,Cardiology,9,1185683.00,131742.56
+Nagpur,Asthma,Pulmonology,7,1157009.00,165287.00
+Mumbai,Dengue,General Medicine,8,1133262.00,141657.75
+Nashik,COVID-19,General Medicine,10,1114750.00,111475.00
+Nashik,Migraine,Neurology,8,1080029.00,135003.63
+Mumbai,Heart Disease,Cardiology,8,1061052.00,132631.50
+Nashik,Dengue,General Medicine,8,1051704.00,131463.00
+Nagpur,Migraine,Neurology,8,1016632.00,127079.00
+Nagpur,COVID-19,General Medicine,7,1000396.00,142913.71
+Pune,Dengue,General Medicine,6,977304.00,162884.00
+Kolhapur,Appendicitis,General Surgery,8,954238.00,119279.75
+Nagpur,Fracture,Orthopedics,6,906662.00,151110.33
+Pune,Asthma,Pulmonology,5,885635.00,177127.00
+Mumbai,Migraine,Neurology,6,870577.00,145096.17
+Mumbai,Fracture,Orthopedics,8,816988.00,102123.50

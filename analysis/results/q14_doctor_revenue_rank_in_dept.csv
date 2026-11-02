@@ -1,0 +1,65 @@
+department_name,doctor_name,admissions,total_revenue,revenue_rank_in_dept
+Cardiology,Dr. Patel,7,711633.00,1
+Cardiology,Dr. Shah,9,652036.00,2
+Cardiology,Dr. Singh,5,627099.00,3
+Cardiology,Dr. Rao,3,518718.00,4
+Cardiology,Dr. Khan,4,516259.00,5
+Cardiology,Dr. Mehta,2,439591.00,6
+Cardiology,Dr. Kulkarni,3,367903.00,7
+Cardiology,Dr. Verma,3,189029.00,8
+Endocrinology,Dr. Verma,5,835669.00,1
+Endocrinology,Dr. Mehta,7,786631.00,2
+Endocrinology,Dr. Kulkarni,4,623119.00,3
+Endocrinology,Dr. Singh,4,562870.00,4
+Endocrinology,Dr. Khan,3,503445.00,5
+Endocrinology,Dr. Shah,2,492871.00,6
+Endocrinology,Dr. Patel,3,454160.00,7
+Endocrinology,Dr. Rao,1,68999.00,8
+General Medicine,Dr. Mehta,12,1563416.00,1
+General Medicine,Dr. Kulkarni,9,1392925.00,2
+General Medicine,Dr. Singh,8,1187963.00,3
+General Medicine,Dr. Khan,9,1112317.00,4
+General Medicine,Dr. Rao,10,1098812.00,5
+General Medicine,Dr. Verma,8,1004151.00,6
+General Medicine,Dr. Patel,5,864181.00,7
+General Medicine,Dr. Shah,7,750679.00,8
+General Surgery,Dr. Patel,8,1099099.00,1
+General Surgery,Dr. Mehta,7,812116.00,2
+General Surgery,Dr. Singh,4,468834.00,3
+General Surgery,Dr. Verma,3,379481.00,4
+General Surgery,Dr. Khan,2,282853.00,5
+General Surgery,Dr. Rao,2,276023.00,6
+General Surgery,Dr. Shah,2,135763.00,7
+General Surgery,Dr. Kulkarni,1,105027.00,8
+Neurology,Dr. Patel,5,740681.00,1
+Neurology,Dr. Khan,4,684221.00,2
+Neurology,Dr. Kulkarni,5,611425.00,3
+Neurology,Dr. Shah,3,515999.00,4
+Neurology,Dr. Singh,5,488852.00,5
+Neurology,Dr. Rao,3,249037.00,6
+Neurology,Dr. Verma,2,247108.00,7
+Neurology,Dr. Mehta,1,244529.00,8
+Orthopedics,Dr. Kulkarni,4,666893.00,1
+Orthopedics,Dr. Verma,4,624297.00,2
+Orthopedics,Dr. Shah,6,527299.00,3
+Orthopedics,Dr. Rao,3,520994.00,4
+Orthopedics,Dr. Mehta,2,426614.00,5
+Orthopedics,Dr. Khan,3,335941.00,6
+Orthopedics,Dr. Singh,3,322996.00,7
+Orthopedics,Dr. Patel,3,211591.00,8
+Pulmonology,Dr. Shah,9,1483392.00,1
+Pulmonology,Dr. Verma,9,1338638.00,2
+Pulmonology,Dr. Mehta,8,1300369.00,3
+Pulmonology,Dr. Singh,7,840410.00,4
+Pulmonology,Dr. Patel,5,731053.00,5
+Pulmonology,Dr. Kulkarni,5,717563.00,6
+Pulmonology,Dr. Rao,4,494817.00,7
+Pulmonology,Dr. Khan,5,443883.00,8
+Urology,Dr. Rao,7,1193601.00,1
+Urology,Dr. Khan,6,607933.00,2
+Urology,Dr. Shah,5,509891.00,3
+Urology,Dr. Kulkarni,3,369517.00,4
+Urology,Dr. Mehta,3,325502.00,5
+Urology,Dr. Verma,2,295932.00,6
+Urology,Dr. Patel,2,124764.00,7
+Urology,Dr. Singh,2,70755.00,8

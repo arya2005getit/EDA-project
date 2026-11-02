@@ -1,0 +1,5 @@
+disease_name,department_name,avg_bill,hospital_avg_bill
+Diabetes,Endocrinology,149233.24,130500.56
+Asthma,Pulmonology,147225.34,130500.56
+Migraine,Neurology,135066.14,130500.56
+Dengue,General Medicine,133974.24,130500.56

@@ -1,0 +1,4 @@
+# Local database credentials must not be committed.
+.env
+__pycache__/
+*.py[cod]

@@ -1,0 +1,25 @@
+department_name,patient_name,disease_name,bill_amount,admission_date,rank_in_dept
+Cardiology,Sneha,Heart Disease,239959.00,2026-04-16,1
+Cardiology,Priya,Heart Disease,221202.00,2026-06-15,2
+Cardiology,Meera,Heart Disease,213315.00,2026-03-01,3
+Endocrinology,Priya,Diabetes,249717.00,2026-04-08,1
+Endocrinology,Karan,Diabetes,249367.00,2026-05-11,2
+Endocrinology,Amit,Diabetes,249171.00,2026-04-02,3
+General Medicine,Sneha,COVID-19,241983.00,2026-01-05,1
+General Medicine,Meera,Dengue,240061.00,2026-06-28,2
+General Medicine,Vikram,Dengue,236174.00,2026-04-09,3
+General Surgery,Karan,Appendicitis,249786.00,2026-02-25,1
+General Surgery,Neha,Appendicitis,248020.00,2026-06-12,2
+General Surgery,Rohan,Appendicitis,239147.00,2026-05-02,3
+Neurology,Rahul,Migraine,244529.00,2026-02-17,1
+Neurology,Ananya,Migraine,241710.00,2026-06-02,2
+Neurology,Rohan,Migraine,234890.00,2026-03-05,3
+Orthopedics,Rahul,Fracture,249451.00,2026-04-25,1
+Orthopedics,Sneha,Fracture,247366.00,2026-05-22,2
+Orthopedics,Karan,Fracture,229295.00,2026-03-12,3
+Pulmonology,Karan,Asthma,236355.00,2026-02-03,1
+Pulmonology,Rohan,Pneumonia,222910.00,2026-03-29,2
+Pulmonology,Sneha,Pneumonia,222473.00,2026-06-30,3
+Urology,Priya,Kidney Stone,246706.00,2026-04-05,1
+Urology,Vikram,Kidney Stone,244949.00,2026-06-06,2
+Urology,Vikram,Kidney Stone,229564.00,2026-04-21,3
